@@ -1,3 +1,3 @@
 # Python-Data
 
-#Big Data Analytics Projects
+#Data Analytics Projects
