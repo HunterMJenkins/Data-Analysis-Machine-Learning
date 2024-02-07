@@ -12,11 +12,7 @@ The **Email Spam Detector** project is a machine learning model designed to accu
 
 - **Data Preprocessing**: Cleansing and preparation of email datasets for training and testing.
 - **NLP Techniques**: Utilization of tokenization, stemming, and vectorization to process email text.
-- **Model Training**: Application of machine learning algorithms such as Naive Bayes and SVM for classification tasks.
+- **Model Training**: Application of machine learning algorithms such as Naive Bayes for classification tasks.
 - **Evaluation**: Comprehensive testing and evaluation to ensure high accuracy and precision in spam detection.
 
 This project serves as a practical application of machine learning and NLP in addressing real-world challenges, demonstrating the potential of these technologies in enhancing email security and user experience.
-
----
-
-This format uses markdown features like headings, bold text, and bullet points to organize the information and make it easy to scan. Adjust the content as necessary to fit the specifics of your Email Spam Detector project and any other projects you wish to highlight.
