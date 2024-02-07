@@ -6,4 +6,4 @@ Some projects are imcomplete
 
 **Highlighted Projects**
       
-Email Spam Detector
+      Email Spam Detector
